@@ -29,7 +29,7 @@
 
 Projeto consiste em uma landing page simples Ui Clone Spotify, este foi desenvolvido apenas com HTML5 e Bootstrap para aprimorar minhas habilidades.
 
-[Visitar site do projeto](https://wanderson-a-timoteo.github.io/landing-page-awax/)
+[Visitar site do projeto](https://wanderson-a-timoteo.github.io/spotify-com-bootstrap/)
 
 <br>
 
@@ -120,7 +120,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](github/LICENSE.m
 
 Feito com ♥ by
 
-[**Wanderson A. Timóteo**](https://www.wandersontimoteo.ga/)
+[<img src="https://avatars.githubusercontent.com/u/40473246?v=4" width=115><br><sub>Wanderson A. Timóteo</sub>](https://www.wandersontimoteo.ga/)
 
 <br>
 
